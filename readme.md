@@ -2,6 +2,8 @@
 
 Esse curso faz parte da Semana Universitária 2021 da Universidade de Brasília
 
+![imagem](Semuni_UnB_2021.png)
+
 http://dex.unb.br/semanauniversitariaunb
 
 O curso é ministrado, por mim, Adriano Possebon Rosa, professor do Departamento de Engenharia Mecânica da UnB. 
